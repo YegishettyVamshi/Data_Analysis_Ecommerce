@@ -12,3 +12,17 @@ We will be working with six related tables which contain eCommerce data about:
 ---> Orders and Refunds
 
 We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+
+# Traffic Source Analysis 
+
+Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic.
+
+<img width="2752" height="1536" alt="Gemini_Generated_Image_23y8ac23y8ac23y8" src="https://github.com/user-attachments/assets/8b761d5e-e59a-4114-a930-556a286e2828" />
+
+Common Use Cases
+
+---> Budget Optimization: Analyzing search data and shifting budget towards the engines, campaigns, or keywords driving the strongest conversion rates.
+
+---> Strategy Alignment: Comparing user behavior patterns across traffic sources to inform creative and messaging strategy.
+
+---> Efficiency & Scaling: Identifying opportunities to eliminate wasted spend or scale high-converting traffic.
